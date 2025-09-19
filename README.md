@@ -40,7 +40,7 @@ This repository contains two beginner-friendly machine learning projects that sh
 
 ## Installation
 
-1. Clone the repository:
+
 ```bash
 git clone https://github.com/<vermasneha828>/<IRIS-Flower-classification-Parkison->.git
 
