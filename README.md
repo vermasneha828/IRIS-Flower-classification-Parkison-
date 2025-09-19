@@ -34,7 +34,7 @@ This repository contains two beginner-friendly machine learning projects that sh
   - `pandas`, `numpy` → Data manipulation  
   - `matplotlib`, `seaborn` → Data visualization  
   - `scikit-learn` → Machine learning models, PCA, train-test split  
-  - `ucimlrepo` → Fetch UCI datasets easily  
+  - `ucimlrepo` → Fetch UCI datasets easily 
 
 ---
 
