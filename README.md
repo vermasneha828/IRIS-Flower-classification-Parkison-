@@ -44,5 +44,5 @@ git clone https://github.com/<vermasneha828>/<IRIS-Flower-classification-Parkiso
 pip install -r requirements.txt
 
 jupyter notebook https://github.com/vermasneha828/IRIS-Flower-classification-Parkison-/blob/main/classification_with_logistic_regression_and_random_forests.ipynb
-jupyter notebook parkison's (3).ipynb
+jupyter notebook (https://github.com/vermasneha828/IRIS-Flower-classification-Parkison-/blob/main/parkison's%20(3).ipynb)
 
