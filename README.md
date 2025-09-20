@@ -26,7 +26,7 @@ This repository contains two beginner-friendly machine learning projects that sh
 - Visualize decision boundaries and compare accuracy.  
 - Analyze whether linear assumptions hold for this dataset.
 
----
+
 
 ## Libraries & Technologies
 - **Python 3**  
@@ -36,12 +36,9 @@ This repository contains two beginner-friendly machine learning projects that sh
   - `scikit-learn` → Machine learning models, PCA, train-test split  
   - `ucimlrepo` → Fetch UCI datasets easily 
 
----
 
-## Installation
+## Installation and Usage 
 
-
-```bash
 git clone https://github.com/<vermasneha828>/<IRIS-Flower-classification-Parkison->.git
 
 pip install -r requirements.txt
