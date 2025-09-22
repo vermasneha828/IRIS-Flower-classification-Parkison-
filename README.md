@@ -38,11 +38,13 @@ This repository contains two beginner-friendly machine learning projects that sh
 
 
 ## Installation and Usage 
+1. Clone the repo:
+git clone  https://github.com/vermasneha828/IRIS-Flower-classification-Parkison-.git
 
-git clone https://github.com/<vermasneha828>/<IRIS-Flower-classification-Parkison->.git
-
+2. Installation of libraries 
 pip install -r requirements.txt
 
+3. Open and run notebook
 jupyter notebook https://github.com/vermasneha828/IRIS-Flower-classification-Parkison-/blob/main/classification_with_logistic_regression_and_random_forests.ipynb
 jupyter notebook (https://github.com/vermasneha828/IRIS-Flower-classification-Parkison-/blob/main/parkison's%20(3).ipynb)
 
